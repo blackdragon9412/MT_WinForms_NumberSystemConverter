@@ -19,4 +19,5 @@ Features
 
     Switching Between Forms:
     Switch between the arithmetic calculator and number conversion features with ease.
-    ![Zahlensystem](https://github.com/user-attachments/assets/72600968-2f01-4460-87e2-b8c1626525cc)
+    
+![Zahlensystem](https://github.com/user-attachments/assets/6d95d9b5-12de-48f9-9120-7758b0048943)
